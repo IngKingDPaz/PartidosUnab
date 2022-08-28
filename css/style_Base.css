@@ -1,0 +1,49 @@
+.tarjeta {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        /* width: 420px;*/
+        border: 1px solid lightgray;
+        box-shadow: 2px 2px 8px 4px #d3d3d3d1;
+        border-radius: 15px;
+        /*font-family: sans-serif;*/
+        font-size: 12px;
+        padding: 20px 4px 20px 4px;
+        overflow: hidden;
+       box-sizing: border-box;
+}
+
+
+.centrar{
+
+  margin-top: 100px;
+          overflow: hidden;
+          box-sizing: border-box;
+
+}
+.centrar_{
+
+  margin-top: 30px;
+          overflow: hidden;
+          box-sizing: border-box;
+
+}
+.margen_arriba{
+  margin-top: 10px;
+  border-style: dotted;
+  width: 100%;
+}
+
+
+.home_button_reg{
+
+  width: 200px;
+  height: 200px;
+}
+
+.home_button_ver{
+
+  width: 200px;
+  height: 200px;
+/*margin-left:80px ;*/
+}
